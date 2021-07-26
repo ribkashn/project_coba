@@ -1,0 +1,17 @@
+.swal2-title {
+  font-size: 16px !important;
+}
+
+.th-datatables {
+	color :#ffffff;
+	background-color: #007bff;
+}
+
+a {
+    color: inherit;
+}
+
+img#image-preview {
+  width: 100%;
+  height: auto;
+}

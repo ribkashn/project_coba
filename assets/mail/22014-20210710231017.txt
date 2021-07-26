@@ -1,0 +1,7 @@
+To:ardi.sunardi@bni.co.id
+Subject:Password Aplikasi Pro-Go
+Header:From:progo@bni.co.id
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+Message:<html><body style="font-family: -system-ui,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;"><p>Dear <strong> Ardi Sunardi </strong>, <br><br>Terima kasih karena sudah mengakses aplikasi Pro-Go.. <br>Berikut kami disampaikan user login dan password aplikasi Pro-Go Anda : <br></p><table style="font-family: -system-ui,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;"><tr><td></td><td>Login</td><td>:</td><td><strong>22014</strong></td></tr><tr><td></td><td>Password</td><td>:</td><td><strong>XUEG46</strong><td></tr><tr><td></td><td>Berlaku sampai</td><td>:</td><td><strong>10-07-2021 23:20:17</strong><td></tr></table><br><p>Password ini hanya sementara, dan harus langsung diganti lagi setelah Anda berhasil login. <br>Harap password digunakan sebelum masa berlakunya berakhir. Jika masa berlakunya sudah berakhir, harus dilakukan aktivasi/forgot password lagi.<br><br></p>Salam Hangat, <br>Admin Pro-Go <br></body> </html>

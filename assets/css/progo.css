@@ -1,0 +1,86 @@
+.th-datatables {
+	color :#ffffff;
+	background-color: #f15a23;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: #c8c8c8;
+}
+
+img#image-preview {
+  width: 100%;
+  height: auto;
+}
+
+.nav-progo {
+	color : white !important;
+}
+
+.nav-progo.active {
+  color: #ff5a00 !important;
+  background-color: white !important;
+  border-color: #dee2e6 #dee2e6 #fff !important;
+}
+
+.nav-item > .nav-progo:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.btn-progo-orange {
+  color: white;
+  background-color: #f15a23;
+}
+
+.btn-progo-orange:hover {
+  color: white;
+  background-color: #de4e00;
+}
+
+.buttons-copy, .buttons-csv, .buttons-excel, .buttons-pdf, .buttons-collection,
+.buttons-columnVisibility.active {
+  color: white;
+  background-color: #f15a23;
+  border-color: #f15a23;
+}
+
+.buttons-copy:hover, .buttons-csv:hover, .buttons-excel:hover, .buttons-pdf:hover,
+.buttons-collection:hover, .buttons-columnVisibility:hover {
+  color: white;
+  background-color: #de4e00;
+  border-color: #de4e00;
+}
+
+.page-item.active .page-link{
+  color: white;
+  background-color: #ff4d00;
+  border-color: #ff4d00;
+}
+
+
+.content-progo {
+  background-color: #fafafa;
+}
+
+.swal2-confirm, .swal2-cancel {
+  color: white !important;
+  background-color: #ff4d00 !important; 
+}
+
+
+.swal2-confirm:hover, .swal2-cancel:hover {
+  color: white !important;
+  background-color: #de4e00 !important; 
+}
+
+.card-progo > .card-header {
+  color :#ffffff;
+  background-color: #f15a23;
+}
+
+.nav-link:hover {
+  background-color: #f4f6f9;
+}
